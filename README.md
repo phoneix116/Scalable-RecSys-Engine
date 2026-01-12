@@ -1,4 +1,4 @@
-# Movie-Reccomendation-Website-With-K-Means
+# Scalable-RecSys-Engine
 
 A full-stack movie recommendation web application with content-based and cluster-based recommendation algorithms.
 
@@ -185,6 +185,11 @@ The system implements a sophisticated caching strategy:
 ```
 
 > **Note:** Cache files (`df_cache.pkl` and `indices_cache.pkl`) will be generated automatically when you run the application for the first time. Additionally, persistent cache files for recommendations and genres will be created in the `cache/` directory. These files significantly improve startup time and query performance on subsequent runs and should not be committed to version control.
+
+## 👨‍💻 Author
+**Cyril Sabu George**
+- GitHub: [@phoneix116](https://github.com/phoneix116)
+- LinkedIn: [www.linkedin.com/in/cyrilsabugeorge]
 
 ## 🤝 Contributing
 
